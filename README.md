@@ -1,5 +1,7 @@
 # Muzi55 Troubleshooting
 
+<!-- [gitbook](https://app.gitbook.com/o/7fBcYNo8Wh9saZfrKmQ0/s/Zo7oSZzODnV9w3T3uz8W/~/gitsync/status) -->
+
 내가 겪은 문제를 생각하고 해결하고 실패해보는 레파지토리
 <br />
 <br />
